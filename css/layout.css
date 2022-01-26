@@ -352,7 +352,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .jquery {
-  	width: 50%;
+  	width: 20%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
@@ -379,7 +379,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 20%;  }
 }
 
 @-webkit-keyframes photoshop {
@@ -404,7 +404,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 20%;  }
 }
 
 /* ------------------------------------------------------------------ */
